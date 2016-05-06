@@ -41,6 +41,14 @@ class TRIENODE {
       }
       return false;
     }
+
+    toJSON(){
+      let result = {};
+      this.children.forEach((value, key) => {
+        result[key] = value.toJSON();
+      })
+      return result;
+    }
 }
 
 export default TRIENODE
