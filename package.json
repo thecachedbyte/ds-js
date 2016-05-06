@@ -1,0 +1,25 @@
+{
+  "name": "ds-js",
+  "version": "0.0.1",
+  "description": "Data Structure in ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecachedbyte/ds-js.git"
+  },
+  "keywords": [
+    "Data-structure",
+    "data",
+    "structure",
+    "es6"
+  ],
+  "author": "Anusheel Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecachedbyte/ds-js/issues"
+  },
+  "homepage": "https://github.com/thecachedbyte/ds-js#readme"
+}
